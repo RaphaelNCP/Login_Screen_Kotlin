@@ -30,6 +30,9 @@
         <activity
             android:name=".telas.LoginRealizadoActivity"
             android:exported="true"/>
+        <activity
+            android:name=".telas.RecuperarSenhaActivity"
+            android:exported="true"/>
     </application>
 
 </manifest>
